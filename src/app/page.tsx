@@ -1,7 +1,7 @@
 "use client"
 import Marquee from 'react-fast-marquee'
 import React from "react";
-import {getData} from "@/app/api/route";
+import {getData} from "@/app/api";
 
 export default function Home() {
 
