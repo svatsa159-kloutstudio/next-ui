@@ -48,3 +48,7 @@ html body #root{
 html{
   background-color: #4F000B;
 }
+
+.hazard{
+  background: repeating-linear-gradient( -50deg, #FFCAC2, #FFCAC2 30px, #4F000B 30px, #4F000B 60px);
+}
